@@ -21,8 +21,6 @@
 
 ## Folder Structure
 
-Calculator/
-│
 ├── index.html
 ├── style.css
 ├── index.js
